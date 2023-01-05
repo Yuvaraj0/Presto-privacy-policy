@@ -1,6 +1,6 @@
 # Statement
 
-We respect the privacy of your information. We provide this explanation about our information practices as a show of our commitment to protect your privacy. This policy describes the types of information we may collect from you or that you may provide when using Exorcist or servers where Astroz is present and our practices for collecting, using, maintaining, protecting, and disclosing that information.
+We respect the privacy of your information. We provide this explanation about our information practices as a show of our commitment to protect your privacy. This policy describes the types of information we may collect from you or that you may provide when using Exorcist or servers where Presto is present and our practices for collecting, using, maintaining, protecting, and disclosing that information.
 
 Please read this policy carefully to understand our policies and practices regarding your information and how we treat it. If you do not agree with our policies and practices, your choice is not to use our website or bot. By adding Universal to your Discord server, you agree that you have read and agree to this policy.
 
